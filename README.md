@@ -1,4 +1,4 @@
-# hello-world
+# This is hello-world testing project
 
 Hi, everyone!
 
@@ -10,4 +10,11 @@ Though I am curious what would happen if I write non latian words like the follo
 日本語も当然対応していると思量します．
 結果はどうでしょうか．
 
-This is the end of this README.md file.
+## Purpose of this project
+
+* To test github common features.
+* Get some experiences from using github.
+* Write README.md file for testing various notations.
+* Etc.
+
+This is the end of the file.
